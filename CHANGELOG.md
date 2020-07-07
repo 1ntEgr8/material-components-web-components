@@ -4,7 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-<!-- ## Unreleased -->
+## Unreleased
+
+### Fixed
+
+- `button`
+  - ripple will unripple when mouse/touchend happens outside of button
 
 ## [v0.17.2] - 2020-01-01
 
